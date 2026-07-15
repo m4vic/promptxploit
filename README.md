@@ -1,5 +1,8 @@
 # PromptXploit
 
+
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/promptxploit?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/promptxploit)
+
 LLM penetration testing from the command line. Point it at any model or endpoint,
 run a categorized set of prompt-injection and jailbreak attacks, and get a
 structured report of what got through.
