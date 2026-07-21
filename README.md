@@ -1,5 +1,10 @@
 # PromptXploit
 
+> [!WARNING]
+> **DISCLAIMER:** This repository is changing rapidly. Breaking changes may occur at any time without prior notice. Use in production environments at your own risk.
+
+---
+
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/promptxploit?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/promptxploit)
 
